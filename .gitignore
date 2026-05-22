@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Output & generated files
+output/
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+
+# Crawler storage and temp files
+crawler/storage/
+crawler/output/
+_temp_extract_*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
